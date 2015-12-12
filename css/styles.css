@@ -1,4 +1,6 @@
-/*Home Page*/
+/************
+Home Page
+************/
 
 img {
     height: 60%;
@@ -35,5 +37,21 @@ li {
     text-decoration: none;
 }
 
-/*About Page*/
+/***************
+Contact Page
+***************/
 
+.contact-info {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 1.5em;
+}
+
+/***************
+Portfolio
+***************/
+
+.article-2 {
+    font-size: 1em;
+}
