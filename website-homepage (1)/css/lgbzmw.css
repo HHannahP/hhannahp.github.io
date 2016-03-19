@@ -1,0 +1,49 @@
+/************
+Home Page
+************/
+
+img {
+    height: 60%;
+    width: 30%;
+    border-radius: 70%;
+    position: relative;
+   
+}
+
+
+body {
+    background: url(
+
+background: #fc00ff; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #fc00ff , #00dbde); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #fc00ff , #00dbde); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        );
+
+}
+
+
+
+h1 {
+color: darkblue;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-family: 'Indie Flower', cursive; 
+    text-align: left; 
+    font-size: 70px;
+}
+
+li {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+/***************
+Contact Page
+***************/
+
+.contact-info {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-size: 1.5em;
+}
